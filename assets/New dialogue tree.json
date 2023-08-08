@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "hello, my name is Kornel, \nim 23 years old, \nwhat's your name? \n[[ akachi |truename]]\n[[ kakachi |falsename]]",
+		"position": {
+			"x": 600,
+			"y": 120
+		},
+		"colorID": 0
+	},
+	{
+		"title": "truename",
+		"tags": "",
+		"body": "akachi? nice to meet you! \n<<krya>>\n                ",
+		"position": {
+			"x": 552,
+			"y": 329
+		},
+		"colorID": 0
+	},
+	{
+		"title": "falsename",
+		"tags": "",
+		"body": "kakachi? XD \n<<krya>>",
+		"position": {
+			"x": 403,
+			"y": 137
+		},
+		"colorID": 0
+	}
+]

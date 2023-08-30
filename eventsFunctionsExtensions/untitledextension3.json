@@ -1,0 +1,40 @@
+{
+  "author": "",
+  "category": "",
+  "extensionNamespace": "",
+  "fullName": "",
+  "helpPath": "",
+  "iconUrl": "",
+  "name": "UntitledExtension3",
+  "previewIconUrl": "",
+  "shortDescription": "",
+  "version": "",
+  "description": "",
+  "tags": [],
+  "authorIds": [],
+  "dependencies": [],
+  "eventsFunctions": [],
+  "eventsBasedBehaviors": [
+    {
+      "description": "",
+      "fullName": "",
+      "name": "HasMessage",
+      "objectType": "Sprite",
+      "eventsFunctions": [],
+      "propertyDescriptors": [
+        {
+          "value": "",
+          "type": "String",
+          "label": "message",
+          "description": "",
+          "group": "",
+          "extraInformation": [],
+          "hidden": false,
+          "name": "Message"
+        }
+      ],
+      "sharedPropertyDescriptors": []
+    }
+  ],
+  "eventsBasedObjects": []
+}

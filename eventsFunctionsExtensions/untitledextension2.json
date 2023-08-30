@@ -1,0 +1,81 @@
+{
+  "author": "",
+  "category": "",
+  "extensionNamespace": "",
+  "fullName": "",
+  "helpPath": "",
+  "iconUrl": "",
+  "name": "UntitledExtension2",
+  "previewIconUrl": "",
+  "shortDescription": "",
+  "version": "",
+  "description": "",
+  "tags": [],
+  "authorIds": [],
+  "dependencies": [],
+  "eventsFunctions": [],
+  "eventsBasedBehaviors": [
+    {
+      "description": "",
+      "fullName": "",
+      "name": "MyBehavior",
+      "objectType": "BitmapText::BitmapTextObject",
+      "eventsFunctions": [
+        {
+          "fullName": "",
+          "functionType": "Action",
+          "name": "Function",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Object",
+                    "__AutoTyping.write_index",
+                    "=",
+                    "StrLength(Object.VariableString(__AutoTyping.txt_buffer))"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Object",
+              "name": "Object",
+              "supplementaryInformation": "BitmapText::BitmapTextObject",
+              "type": "object"
+            },
+            {
+              "description": "Behavior",
+              "name": "Behavior",
+              "supplementaryInformation": "UntitledExtension2::MyBehavior",
+              "type": "behavior"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "propertyDescriptors": [
+        {
+          "value": "",
+          "type": "Number",
+          "label": "",
+          "description": "",
+          "group": "",
+          "extraInformation": [],
+          "hidden": false,
+          "name": "Property"
+        }
+      ],
+      "sharedPropertyDescriptors": []
+    }
+  ],
+  "eventsBasedObjects": []
+}

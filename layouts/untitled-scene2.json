@@ -1,0 +1,2074 @@
+{
+  "b": 0,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "Untitled_32scene2",
+  "name": "Untitled scene2",
+  "r": 0,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 0,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.6385789179380378,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 414,
+      "layer": "",
+      "name": "Grass",
+      "persistentUuid": "ea817f56-1f61-4e5b-b143-39ee7a68f215",
+      "width": 669,
+      "x": 0,
+      "y": 127,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "NewSprite",
+      "persistentUuid": "46742765-e5f5-4c37-b56c-b7330ce04811",
+      "width": 0,
+      "x": 436,
+      "y": 151,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "NewSprite",
+      "persistentUuid": "0b65e3cb-ea24-49d5-a6be-c91cc3945df2",
+      "width": 0,
+      "x": 617,
+      "y": 369,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "NewSprite",
+      "persistentUuid": "877ee400-b6eb-476d-8af5-7398fb812b70",
+      "width": 0,
+      "x": 171,
+      "y": 136,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 136,
+      "layer": "",
+      "name": "NewSprite",
+      "persistentUuid": "bbd53708-f443-47f5-b08a-1997e5392245",
+      "width": 130,
+      "x": 339,
+      "y": 374,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "NewSprite",
+      "persistentUuid": "e55619d9-6a3f-429d-a1d0-42a0b425556e",
+      "width": 0,
+      "x": 69,
+      "y": 367,
+      "zOrder": 6,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 23,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "8b09c347-6d7d-4805-a619-64082e22a3b4",
+      "width": 22,
+      "x": 123,
+      "y": 302,
+      "zOrder": 7,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 22,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "fca38b22-2727-4552-9a37-2c10b5228444",
+      "width": 23,
+      "x": 178,
+      "y": 465,
+      "zOrder": 8,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 27,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "31eec424-6859-4ec2-ba49-4476024fd71b",
+      "width": 26,
+      "x": 557,
+      "y": 470,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 13,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "503d5bdc-6561-44a6-a975-5a73a5d7df6e",
+      "width": 13,
+      "x": 285,
+      "y": 414,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 26,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "12876198-194c-4e63-bfce-ad57cdf1d630",
+      "width": 14,
+      "x": 337,
+      "y": 167,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 13,
+      "layer": "",
+      "name": "NewSprite2",
+      "persistentUuid": "2448fdfb-b133-40cf-8440-5231a2da3a0c",
+      "width": 64,
+      "x": 448,
+      "y": 251,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 270,
+      "customSize": true,
+      "height": 12,
+      "layer": "",
+      "name": "NewSprite3",
+      "persistentUuid": "2716a5fc-be2b-4c01-b0c0-14dd927e3274",
+      "width": 6,
+      "x": 242,
+      "y": 340,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Player",
+      "persistentUuid": "8ac19e53-6e3c-4840-9a4a-6fe596f43cbf",
+      "width": 0,
+      "x": 269,
+      "y": 524,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 64,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "88c10125-bd28-4199-b4c3-cc21cdd438cb",
+      "width": 122,
+      "x": 341,
+      "y": 443,
+      "zOrder": 15,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 18,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "c3f46154-0af0-4de9-8674-400f6f765616",
+      "width": 64,
+      "x": 443,
+      "y": 247,
+      "zOrder": 16,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 15,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "a3352e8a-4888-4e4b-bb41-7b6b520e1a3a",
+      "width": 33,
+      "x": 436,
+      "y": 169,
+      "zOrder": 17,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 13,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "e007b751-360e-4b3d-a6d4-68148610e869",
+      "width": 32,
+      "x": 172,
+      "y": 154,
+      "zOrder": 18,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 8,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "bc55e478-ed25-4676-ad7e-f4ecb9887ab0",
+      "width": 36,
+      "x": 66,
+      "y": 388,
+      "zOrder": 19,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 9,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "9ff10842-6499-4cce-aef7-baa82edb5228",
+      "width": 33,
+      "x": 617,
+      "y": 391,
+      "zOrder": 20,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 29,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "c8dd5994-eca9-4476-9e43-00ba999a0cd0",
+      "width": 29,
+      "x": 556,
+      "y": 472,
+      "zOrder": 21,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 21,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "460abb59-c955-499a-b60b-8d8ae644c149",
+      "width": 22,
+      "x": 178,
+      "y": 467,
+      "zOrder": 22,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 16,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "1fc555ae-9dc1-4bb1-b210-413733247f01",
+      "width": 15,
+      "x": 284,
+      "y": 412,
+      "zOrder": 23,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 24,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "64d3ea74-3f16-42a6-b65b-b1e062a337bc",
+      "width": 28,
+      "x": 119,
+      "y": 301,
+      "zOrder": 24,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 28,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "07aae7a7-a3d3-40d8-97f0-4251b0d48a17",
+      "width": 19,
+      "x": 333,
+      "y": 166,
+      "zOrder": 25,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 16,
+      "layer": "Layer",
+      "name": "PixelHeartBar",
+      "persistentUuid": "d33863ab-804b-4bbe-8962-26c5e62d2326",
+      "width": 1,
+      "x": 238,
+      "y": 74,
+      "zOrder": 27,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 21,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "94a7a030-2802-438d-aa11-4f8a242f01d1",
+      "width": 236,
+      "x": 0,
+      "y": 539,
+      "zOrder": 29,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 16,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "883c34a3-b45b-45be-a365-b64c4d6ad6e2",
+      "width": 358,
+      "x": 313,
+      "y": 540,
+      "zOrder": 30,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 446,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "fc7cad12-9da9-4def-a32b-c496814f030c",
+      "width": 64,
+      "x": 669,
+      "y": 127,
+      "zOrder": 31,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 64,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "99560702-3ef9-444b-8759-b7345ac465ce",
+      "width": 734,
+      "x": 0,
+      "y": 63,
+      "zOrder": 32,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 496,
+      "layer": "Collision",
+      "name": "CollisionDetect",
+      "persistentUuid": "39ddc92f-edb1-430f-999c-e9c6c88983d3",
+      "width": 64,
+      "x": -64,
+      "y": 63,
+      "zOrder": 33,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "Layer3",
+      "name": "NewBitmapText3",
+      "persistentUuid": "6c389ca4-d6c3-439b-98f8-d2e80526c9b4",
+      "width": 0,
+      "x": 83,
+      "y": 421,
+      "zOrder": 34,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "height": 32,
+      "name": "Grass",
+      "tags": "",
+      "texture": "assets/Grass1.png",
+      "type": "TiledSpriteObject::TiledSprite",
+      "width": 32,
+      "variables": [],
+      "effects": [],
+      "behaviors": []
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "NewSprite",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewSprite12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "NewSprite2",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite2",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.3333,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewSprite219",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewSprite220",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "NewSprite3",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "NewSprite3",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "NewSprite321",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "Player",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "Flash",
+          "type": "Flash::Flash",
+          "HalfPeriodTime": 0.1,
+          "IsFlashing": false,
+          "FlashDuration": 0
+        },
+        {
+          "name": "Health",
+          "type": "Health::Health",
+          "Health": 6,
+          "CurrentHealth": 0,
+          "MaxHealth": 6,
+          "DamageCooldown": 3,
+          "IsHealthJustDamaged": false,
+          "HealthRegenRate": 0,
+          "HealthRegenDelay": 0,
+          "AllowOverHealing": false,
+          "HitAtLeastOnce": false,
+          "IsJustHealed": false,
+          "CurrentShieldPoints": 0,
+          "MaxShieldPoints": 3,
+          "ShieldDuration": 0,
+          "ShieldRegenRate": 0,
+          "BlockExcessDamage": false,
+          "ShieldRegenDelay": 0,
+          "IsShieldJustDamaged": false,
+          "ChanceToDodge": 0,
+          "DamageToBeApplied": 0,
+          "FlatDamageReduction": 0,
+          "PercentDamageReduction": 0,
+          "IsJustDodged": false,
+          "ShieldDamageTaken": 0,
+          "HealToBeApplied": 0
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+          "customIsometryAngle": 44,
+          "movementAngleOffset": 0,
+          "viewpoint": "TopDown",
+          "acceleration": 900000,
+          "allowDiagonals": false,
+          "angleOffset": 0,
+          "angularMaxSpeed": 180,
+          "deceleration": 900000,
+          "ignoreDefaultControls": false,
+          "maxSpeed": 50,
+          "rotateObject": false
+        }
+      ],
+      "animations": [
+        {
+          "name": "down",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "down",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "down2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "down3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "down4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "right",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "left",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player5",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player6",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player7",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player8",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "up",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player9",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player10",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player11",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                },
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player12",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Player",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{\"data\":\"{\\\"modelVersion\\\":2,\\\"piskel\\\":{\\\"name\\\":\\\"NewSprite3\\\",\\\"description\\\":\\\"\\\",\\\"fps\\\":12,\\\"height\\\":100,\\\"width\\\":16,\\\"layers\\\":[\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 1\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABkCAYAAACPQLC2AAAAAXNSR0IArs4c6QAAAmVJREFUWEftmC1MAzEUx3sWkAQzgiDZBA6HnCFgCQIEIBYMhMwvIQhCMr8QMGQCECAIFoKZxOEQW4IgzBAkYEfeZe/S9l77Xu82xZ3aXft+ff/30estUjmvKKe9+ieAgVJuqb4YgKF9pea7ANSqCDRsKAA5cehKakwH+Ax1KcY8G+C7RwgJcGl2SUye44/cAHDPhnjzj3q4ILIQW2OwFxSA6nBnxXLtzNYGB2D3m38CoPYFiE0sn4tB7iwEV6Ld95yHTgms61QzBa/uCyKrXeIBNyceZ4M03Gh0eey27muglDSJB96OLACyNAYF0dX7uevA2VzSNDp7QwLIfEaiXrj8oUmbIdpUuFMaK9F3ShO1Owdg39Shx7ygILJvZpFGjsJGuQBwERjDjsQvac0o0lhkYaT7gfhUZpcqVKJo/3fV+MgACAruDd0wUxx0CZmyYnsQDAnWTKUxeBdyHpiykMYiQfT3j+9jQi9tHUZ66ztgiFIsBaDHKY98JxRXyg0IlwW9P8i/RziA7YUd4CgEQKY3BGAHMrZNAaZLJe83w1e/7/5uBOOVmQlvSzx+/iodktAkxkjWIREYvrVqqjm5pt4bG6KGnGveqsbPvZqvt1UCAMu9k5sEcH64adzrZBiDKwbADwwc6MdByhVcACTABbFIACADJvgA6CXMgdWdABiEC6DoKt7jIiRAFMHhJAOAccAVORAaG5UIgawe1A3bduU7vq91p4znndNWUkypUt5uXQ9mKwuq9/KkLnZWY8PdywdVXlxWH91XdVXfcpcyTD5br3p7Yf+uIwccPfdiD46XyokEG/AHdaPJ9//uWDkAAAAASUVORK5CYII=\\\\\\\"}]}\\\",\\\"{\\\\\\\"name\\\\\\\":\\\\\\\"Layer 2\\\\\\\",\\\\\\\"opacity\\\\\\\":1,\\\\\\\"frameCount\\\\\\\":1,\\\\\\\"chunks\\\\\\\":[{\\\\\\\"layout\\\\\\\":[[0]],\\\\\\\"base64PNG\\\\\\\":\\\\\\\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABkCAYAAACPQLC2AAAAAXNSR0IArs4c6QAAAFdJREFUWEft2LENACAMA0Fn/6URQoj0aSiOHgor/gcqw1XD/XFAZBAZ7B7pggzMwTGKLsjAHOjCvV/iAR7gAR7gwXtxYyImYiImYiIm9n9YXuAFXvjFCwsb6QBl2vY8eAAAAABJRU5ErkJggg==\\\\\\\"}]}\\\"],\\\"hiddenFrames\\\":[\\\"\\\"]}}\",\"resourceNames\":[\"Player13\"],\"name\":\"Player\"}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "Player13",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "attack1",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.2,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "attack114",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": false,
+      "assetStoreId": "",
+      "name": "CollisionDetect",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "CollisionDetect",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "CollisionDetect",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "db57d0bcdc074868304ca46431ac85fcef3f613be5fba73ae0adc26ee2c8629b",
+      "name": "PixelHeartBar",
+      "tags": "",
+      "type": "TiledUnitsBar::TiledUnitsBar",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "UnitWidth": 16,
+        "HideBackground": true,
+        "ShowBackground": true,
+        "InitialValue": 6,
+        "MaxValue": 6
+      },
+      "childrenContent": {
+        "Background": {
+          "bottomMargin": 0,
+          "height": 16,
+          "leftMargin": 0,
+          "rightMargin": 0,
+          "texture": "tiled_Tiled Empty UI Heart.png",
+          "tiled": true,
+          "topMargin": 0,
+          "width": 48
+        },
+        "Bar": {
+          "height": 16,
+          "texture": "tiled_Tiled Empty UI Heart.png",
+          "width": 48
+        },
+        "FillBar": {
+          "height": 16,
+          "texture": "tiled_Tiled Filler UI Heart.png",
+          "width": 16
+        }
+      }
+    }
+  ],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
+          },
+          "parameters": [
+            "Player",
+            "TopDownMovement",
+            "\"Down\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetAnimationName"
+          },
+          "parameters": [
+            "Player",
+            "\"down\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
+          },
+          "parameters": [
+            "Player",
+            "TopDownMovement",
+            "\"Right\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetAnimationName"
+          },
+          "parameters": [
+            "Player",
+            "\"right\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
+          },
+          "parameters": [
+            "Player",
+            "TopDownMovement",
+            "\"Up\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetAnimationName"
+          },
+          "parameters": [
+            "Player",
+            "\"up\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "TopDownMovementBehavior::TopDownMovementBehavior::IsUsingControl"
+          },
+          "parameters": [
+            "Player",
+            "TopDownMovement",
+            "\"Left\""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "SetAnimationName"
+          },
+          "parameters": [
+            "Player",
+            "\"left\""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "TopDownMovementBehavior::IsMoving"
+          },
+          "parameters": [
+            "Player",
+            "TopDownMovement"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PlayAnimation"
+          },
+          "parameters": [
+            "Player"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "inverted": true,
+            "value": "TopDownMovementBehavior::IsMoving"
+          },
+          "parameters": [
+            "Player",
+            "TopDownMovement"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PauseAnimation"
+          },
+          "parameters": [
+            "Player"
+          ]
+        },
+        {
+          "type": {
+            "value": "ChangeSprite"
+          },
+          "parameters": [
+            "Player",
+            "=",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "ZoomCamera"
+          },
+          "parameters": [
+            "",
+            "3",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "ZoomCamera"
+          },
+          "parameters": [
+            "",
+            "1.5",
+            "\"Transition\"",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "HideLayer"
+          },
+          "parameters": [
+            "",
+            "\"Collision\""
+          ]
+        },
+        {
+          "type": {
+            "value": "HideLayer"
+          },
+          "parameters": [
+            "",
+            "\"dial\""
+          ]
+        },
+        {
+          "type": {
+            "value": "HideLayer"
+          },
+          "parameters": [
+            "LockedDoorText1",
+            "\"Collision\""
+          ]
+        },
+        {
+          "type": {
+            "value": "HideLayer"
+          },
+          "parameters": [
+            "",
+            "\"Layer2\""
+          ]
+        },
+        {
+          "type": {
+            "value": "ResetTimer"
+          },
+          "parameters": [
+            "",
+            "\"spawn\""
+          ]
+        }
+      ]
+    },
+    {
+      "colorB": 228,
+      "colorG": 176,
+      "colorR": 74,
+      "creationTime": 0,
+      "name": "health system",
+      "source": "",
+      "type": "BuiltinCommonInstructions::Group",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "CollisionDetect",
+                "no"
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "Player.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "CentreCamera"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "Player",
+                "NewSprite4",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PathfindingBehavior::SetDestination"
+              },
+              "parameters": [
+                "NewSprite4",
+                "Pathfinding",
+                "",
+                "Player.X()",
+                "Player.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SeparateFromObjects"
+              },
+              "parameters": [
+                "NewSprite4",
+                "CollisionDetect",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Player",
+                "NewSprite4",
+                "25",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"attack1\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                "1",
+                "no",
+                "no",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsJustDamaged"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TiledUnitsBar::TiledUnitsBar::SetValue"
+              },
+              "parameters": [
+                "PixelHeartBar",
+                "-",
+                "1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Flash::Flash::Flash"
+              },
+              "parameters": [
+                "Player",
+                "Flash",
+                "3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "Player",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Untitled scene2\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"spawn\"",
+                ">=",
+                "20"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "NewSprite4",
+                "274",
+                "201",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"spawn\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Player",
+                "NewSprite3",
+                "25",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "e"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "BitmapText::BitmapTextObject::SetText"
+              },
+              "parameters": [
+                "NewBitmapText3",
+                "=",
+                "\"a sword! use with w\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Layer3\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"Player\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "NewSprite3"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetGlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Sword",
+                "True"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "GlobalVariableAsBoolean"
+              },
+              "parameters": [
+                "Sword",
+                "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "KeyReleased"
+              },
+              "parameters": [
+                "",
+                "w"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"attack1\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"down\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ChangeSprite"
+              },
+              "parameters": [
+                "Player",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "NewSprite4",
+                "Player",
+                "25",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimationName"
+              },
+              "parameters": [
+                "Player",
+                "\"attack1\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Health::Health::Hit"
+              },
+              "parameters": [
+                "NewSprite4",
+                "Health",
+                "1",
+                "no",
+                "no",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Health::Health::IsDead"
+              },
+              "parameters": [
+                "NewSprite4",
+                "Health",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "NewSprite4",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "parameters": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "GlobalVariableAsBoolean"
+          },
+          "parameters": [
+            "MHat",
+            "True"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Health::Health::SetFlatDamageReduction"
+          },
+          "parameters": [
+            "Player",
+            "Health",
+            "0.5",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "Player",
+            ">=",
+            "235"
+          ]
+        },
+        {
+          "type": {
+            "value": "PosX"
+          },
+          "parameters": [
+            "Player",
+            "<=",
+            "300"
+          ]
+        },
+        {
+          "type": {
+            "value": "PosY"
+          },
+          "parameters": [
+            "Player",
+            ">=",
+            "524"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Overworld\"",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Collision",
+      "renderingType": "",
+      "visibility": false,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Layer",
+      "renderingType": "",
+      "visibility": true,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Layer2",
+      "renderingType": "",
+      "visibility": false,
+      "cameras": [],
+      "effects": []
+    },
+    {
+      "ambientLightColorB": 200,
+      "ambientLightColorG": 200,
+      "ambientLightColorR": 200,
+      "camera3DFarPlaneDistance": 10000,
+      "camera3DFieldOfView": 45,
+      "camera3DNearPlaneDistance": 0.1,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "isLocked": false,
+      "name": "Layer3",
+      "renderingType": "",
+      "visibility": false,
+      "cameras": [],
+      "effects": []
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "BitmapText_AutoTyping",
+      "type": "AutoTyping::BitmapText_AutoTyping"
+    },
+    {
+      "name": "Flash",
+      "type": "Flash::Flash"
+    },
+    {
+      "name": "FlashTransitionPainter",
+      "type": "FlashTransitionPainter::FlashTransitionPainter"
+    },
+    {
+      "name": "Health",
+      "type": "Health::Health"
+    },
+    {
+      "name": "Pathfinding",
+      "type": "PathfindingBehavior::PathfindingBehavior"
+    },
+    {
+      "name": "Text_AutoTyping",
+      "type": "AutoTyping::Text_AutoTyping"
+    },
+    {
+      "name": "TopDownMovement",
+      "type": "TopDownMovementBehavior::TopDownMovementBehavior"
+    }
+  ]
+}

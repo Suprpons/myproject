@@ -1,0 +1,51 @@
+{
+  "author": "",
+  "category": "",
+  "extensionNamespace": "",
+  "fullName": "",
+  "helpPath": "",
+  "iconUrl": "",
+  "name": "UntitledExtension",
+  "previewIconUrl": "",
+  "shortDescription": "",
+  "version": "",
+  "description": "",
+  "tags": [],
+  "authorIds": [],
+  "dependencies": [],
+  "eventsFunctions": [],
+  "eventsBasedBehaviors": [
+    {
+      "description": "",
+      "fullName": "RedText",
+      "name": "MyBehavior",
+      "objectType": "BitmapText::BitmapTextObject",
+      "eventsFunctions": [],
+      "propertyDescriptors": [
+        {
+          "value": "160;28;28",
+          "type": "Color",
+          "label": "makes text red",
+          "description": "",
+          "group": "",
+          "extraInformation": [],
+          "hidden": false,
+          "name": "Property"
+        }
+      ],
+      "sharedPropertyDescriptors": [
+        {
+          "value": "",
+          "type": "Color",
+          "label": "",
+          "description": "",
+          "group": "",
+          "extraInformation": [],
+          "hidden": false,
+          "name": "Property"
+        }
+      ]
+    }
+  ],
+  "eventsBasedObjects": []
+}
